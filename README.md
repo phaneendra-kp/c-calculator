@@ -1,41 +1,47 @@
-C Beginner Projects
-A collection of C programming projects I've created as a beginner to practice core programming fundamental concepts like loops, conditionals, functions, and file handling.
-📋 Projects Included
- Number Guessing Game (guessing_game.c)
-A fun interactive game where the computer picks a random number (1-100) and you try to guess it.
+# C Programming Practice Projects
 
-Features: Random number generation, loop control, user feedback
-Input a number → Get feedback (too high/low) → Guess correctly
+A collection of mini C programs created to practice and strengthen fundamental programming concepts. This repository is actively maintained and continuously updated as new concepts are learned and practiced.
 
-Temperature Converter (temperature_converter.c)
+## 📚 Learning Journey
+
+This repo documents my learning progress with small, focused programs that practice key C fundamentals:
+- ✅ Loops and iteration
+- ✅ Conditionals and decision-making
+- ✅ Functions and modularity
+- ✅ Arrays and data structures
+- ⚠️ File handling and I/O
+- ✅ Random number generation
+- ✅ User input validation
+- ✅ Basic algorithms
+
+## 📋 Programs
+
+### Rock Paper Scissors Game (`rock paper scissors game.c`)
+Play Rock, Paper, Scissors against the computer (best of 3).
+
+**Concepts practiced:** Random numbers, loops, conditionals, score tracking, user input validation
+
+
+### Temperature Converter (`TemperatureConverter.c`)
 Convert temperatures between Celsius and Fahrenheit.
 
-Features: Two-way conversion, formatted output
-Choose conversion type → Enter temperature → Get result
+**Concepts practiced:** Arithmetic operations, functions, data types, formatted output, conditionals
 
-Grade Calculator (grade_calculator.c)
-Calculate average marks, assign grades, and determine pass/fail status.
 
-Features: Array usage, loops for input, conditional grading
-Enter number of subjects → Input marks → Get average and grade
+### Grade Calculator (`gradecaluclator.c`)
+Calculate average marks and assign letter grades.
 
-Prime Number Checker (prime_checker.c)
-Check if a number is prime or find all primes up to a given number.
+**Concepts practiced:** Arrays, loops, conditionals, calculations, functions
 
-Features: Prime number logic, function implementation, loop optimization
- Choose check single or find all → Enter number → View results
 
-Simple Bank System (bank_system.c)
-A basic banking application with deposit, withdrawal, and transaction history.
+### Unit Converter (`UnitConverter.c`)
+Convert between different units of measurement (length, weight, temperature, etc.).
 
-Features: Menu-driven interface, balance tracking, transaction logging
-Set initial balance → Choose operations (deposit/withdraw/view history)
+**Concepts practiced:** Functions, conditionals, arithmetic operations, menu systems, loops
 
- Rock, Paper, Scissors Game (rock_paper_scissors.c)
-Play Rock, Paper, Scissors against the computer. Best of 3 rounds!
 
-Features: Random AI, score tracking, multiple rounds
-Choose your move → Computer chooses → See result → Play 3 rounds
+### Calculator (`caluclator.c`)
+Basic arithmetic calculator for practice.
 
- Unit Converter (unit_converter.c)
-Convert between different units of measurement.
+**Concepts practiced:** Conditionals, arithmetic operations, user input, functions
+
